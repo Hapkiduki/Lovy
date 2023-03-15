@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925664635151",
+    "project_id": "lovy-d448f",
+    "storage_bucket": "lovy-d448f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925664635151:android:1b36b81eb160fb50ae367a",
+        "android_client_info": {
+          "package_name": "com.hapkiduki.lovy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925664635151-9dafbeluoive73i1bsieh09170knp5ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hapkiduki.lovy",
+            "certificate_hash": "0c3efdbb887a5c76c8e02d81b5d1728874dd9aa4"
+          }
+        },
+        {
+          "client_id": "925664635151-vrnvncgdjp5ubebno2tq9kt08uerelqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-4Fd_gCl8t_ec-9cb8YwAVMJlUeR1wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925664635151-vrnvncgdjp5ubebno2tq9kt08uerelqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
